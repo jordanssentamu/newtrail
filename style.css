@@ -35,13 +35,17 @@ font-weight: bold;
 .days, .member, .book  {
     width: 26px;
     height: 26px;
+
 }
 
 .bar {
     display: flex;
-    align-content: center;
+    text-align: center;
     gap: 50px;
     margin-left: 50px;
-    
+ }
 
-}
+ .smaller {
+    font-size: 10px;
+    
+ }
