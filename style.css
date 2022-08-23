@@ -33,10 +33,10 @@ font-weight: bold;
 }
 
 .days, .member, .book  {
-    width: 26px;
-    height: 26px;
-
-}
+    width: 20px;
+    height: 20px;
+    margin-bottom: -5pxpx;
+  }
 
 .bar {
     display: flex;
@@ -48,4 +48,9 @@ font-weight: bold;
  .smaller {
     font-size: 10px;
     
+ }
+ 
+ .text {
+    margin-top: 11px;
+    justify-items: right;
  }
