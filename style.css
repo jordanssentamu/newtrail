@@ -13,6 +13,11 @@ background-position: right,top;
 padding-bottom: 20px;
 font-weight: bold;
 }
+.navs {
+    width: 500px;
+    height: 250px;
+    margin-left: 50px;
+}
 
 .membership {
     background-color: #ff3300;
@@ -36,6 +41,7 @@ font-weight: bold;
     display: flex;
     align-content: center;
     gap: 50px;
+    margin-left: 50px;
     
 
 }
