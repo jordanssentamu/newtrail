@@ -85,5 +85,6 @@ h4 {
   ul {
     font-size: 10px;
     line-height: 20px;
+    list-style: none;
     
   }
