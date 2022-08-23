@@ -16,6 +16,9 @@ font-weight: bold;
     width: 500px;
     height: 250px;
     margin-left: 50px;
+    padding-bottom: 100px;
+    padding-top: 0px;
+    margin-top: -150px;
 }
 
 .membership {
@@ -39,9 +42,9 @@ font-weight: bold;
 
 .bar {
     display: flex;
-    text-align: center;
-    gap: 50px;
+     gap: 50px;
     margin-left: 50px;
+    
  }
 
  .smaller {
@@ -57,9 +60,7 @@ font-weight: bold;
     background-color: rgba(31, 35, 39, 1);
     display: flex;
     gap: 50px;
-    max-width: 1000px;
-
- }
+    }
 
  .img {
    margin-left: 50px;
@@ -75,4 +76,8 @@ font-weight: bold;
 
 h4 {
     margin-top: -20px;
+ }
+
+ h6 {
+    padding-top: 100px;
  }
