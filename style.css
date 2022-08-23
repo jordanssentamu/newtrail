@@ -31,3 +31,11 @@ font-weight: bold;
     width: 26px;
     height: 26px;
 }
+
+.bar {
+    display: flex;
+    align-content: center;
+    gap: 50px;
+    
+
+}
