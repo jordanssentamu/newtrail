@@ -1,4 +1,12 @@
 body {
     background-color: #1E1E1E;
     color: white;
+
+}
+
+.nav {
+background-image: url("./pic/joshua-sukoff-Tz1qBS5Gpw0-unsplash.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: right,top;
 }
