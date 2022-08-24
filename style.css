@@ -97,3 +97,7 @@ h4 {
     float: right;
     display: flex;
 }
+
+.heading1 {
+        padding-top: 0px;
+}
