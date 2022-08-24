@@ -93,10 +93,21 @@ h4 {
 }
 
 .heading1 {
-        padding-top: 0px;
+        padding-top: 100px;
 }
 
 .sectiontwo {
     background-color: rgba(25, 28, 31, 1);
     display: flex;
+}
+
+.wrapper {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.img2 {
+    margin-top: 80px;
+    margin-bottom: 20px;
+    padding-top: 0px;
 }
